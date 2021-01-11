@@ -30,7 +30,13 @@ Percentile 93%
 
 ## PUBLICATION 
 ### Improvement of Quantum Circuits Using H-U-H Sandwich Technique with Diagonal Matrix Implementation. 
-Link: 
+Journals Website link:
+http://www.ajscieng.com/index.php/ajse/article/view/ajse2013098/ajse2013098
+
+ResearchGate Link: 
+https://www.researchgate.net/publication/343834124_Improvement_of_Quantum_Circuits_Using_H-U-H_Sandwich_Technique_with_Diagonal_Matrix_Implementation
+
+
 
 
 
