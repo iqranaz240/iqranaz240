@@ -9,14 +9,17 @@
 
 ### IBM | Qiskit Advocate
 Aug2020–Present 
-Working on Quantum Computing. 
+Working on Quantum Computing.
+### NCCS lab, NEDUET | Research Intern
+Nov2020-Present
+Research on Quantum Key Distribution
 ### TRULY FUTURE | Intern  
 June2020–Sep2020 
 Working on projects of React, Flutter, WordPress. 
 ### CSRD LAB NEDUET | Intern 
 Feb2020–May2020 
 Working on Energy Monitoring System based on Predictive Analysis. 
-### QCC NEDUET | Vice President 
+### QCC NEDUET | President 
 Dec2019–Present 
 Working on development and promotion of Quantum Computing and handlimg a team. 
 
