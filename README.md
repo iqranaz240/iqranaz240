@@ -1,6 +1,5 @@
-| col 1      | col 2      |
-|------------|-------------|
-| <img src="" width="250"> | ## Iqra Naz
+
+| <img src="" width="250"> | ##Iqra Naz
 
 
 
