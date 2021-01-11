@@ -1,4 +1,11 @@
-## Iqra Naz
+# Iqra Naz
+## Software Engineering (enior Year)
+
+### Email Address: iqranaz240@gmail.com  
+### GitHub Link: https://github.com/iqranaz240  
+### LinkedIn: https://www.linkedin.com/in/iqranaz/ 
+
+
 
 
 
