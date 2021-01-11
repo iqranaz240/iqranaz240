@@ -1,4 +1,8 @@
-### Hi there 👋
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="" width="250"> | ## Iqra Naz
+
+
 
 <!--
 **iqranaz240/iqranaz240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
