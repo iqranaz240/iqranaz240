@@ -1,5 +1,4 @@
-
- <img src="" width="250">  ## Iqra Naz
+## Iqra Naz
 
 
 
