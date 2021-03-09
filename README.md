@@ -39,7 +39,12 @@ http://www.ajscieng.com/index.php/ajse/article/view/ajse2013098/ajse2013098
 ResearchGate Link: 
 https://www.researchgate.net/publication/343834124_Improvement_of_Quantum_Circuits_Using_H-U-H_Sandwich_Technique_with_Diagonal_Matrix_Implementation
 
+### Predictive Analysis for the detection of COVID19 with chest X-ray images using convolutional neural networks
+Journals Website link:
+http://jn.wum.edu.pk/index.php/ojs/article/view/19
 
+ResearchGate Link: 
+https://www.researchgate.net/publication/349343461_Predictive_Analysis_for_the_Detection_of_Covid-19_with_Chest_X-Ray_Images_Using_Convolutional_Neural_Network
 
 
 
