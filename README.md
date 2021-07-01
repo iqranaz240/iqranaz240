@@ -10,6 +10,9 @@
 ### IBM | Qiskit Advocate
 Aug2020–Present 
 Working on Quantum Computing.
+### IoT Instructor | NAVTTC-NEDUET
+Feb2020-Present
+Teaching IoT, its importance, applications and implementation in real world scenarios
 ### NCCS lab, NEDUET | Research Intern
 Nov2020-Present
 Research on Quantum Key Distribution
