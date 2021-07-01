@@ -8,22 +8,22 @@
 ## EXPERIENCE 
 
 ### IBM | Qiskit Advocate
-Aug2020–Present 
+Aug2020–Present - 
 Working on Quantum Computing.
 ### IoT Instructor | NAVTTC-NEDUET
-Feb2020-Present
+Feb2020-Present - 
 Teaching IoT, its importance, applications and implementation in real world scenarios
 ### NCCS lab, NEDUET | Research Intern
-Nov2020-Present
+Nov2020-Present - 
 Research on Quantum Key Distribution
 ### TRULY FUTURE | Intern  
-June2020–Sep2020 
+June2020–Sep2020 - 
 Working on projects of React, Flutter, WordPress. 
 ### CSRD LAB NEDUET | Intern 
-Feb2020–May2020 
+Feb2020–May2020 - 
 Working on Energy Monitoring System based on Predictive Analysis. 
 ### QCC NEDUET | President 
-Dec2019–Present 
+Dec2019–Present - 
 Working on development and promotion of Quantum Computing and handlimg a team. 
 
 ## EDUCATION 
